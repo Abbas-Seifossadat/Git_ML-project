@@ -5,3 +5,7 @@ My ML projects:
 
 
 2. BigMart Sales Data
+
+
+2. California Housing Price
+
