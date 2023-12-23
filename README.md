@@ -8,3 +8,9 @@ My ML projects:
 
 
 3. California Housing Price
+
+
+4. Spaceship_Titanic
+
+
+5. Evaluation_on_SVM_and_NaiveBayes
