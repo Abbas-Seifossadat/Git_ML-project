@@ -14,3 +14,6 @@ My ML projects:
 
 
 5. Evaluation_on_SVM_and_NaiveBayes
+
+
+6. Telecom_Customer_Churn_Prediction
