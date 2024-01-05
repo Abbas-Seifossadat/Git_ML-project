@@ -17,3 +17,6 @@ My ML projects:
 
 
 6. Telecom_Customer_Churn_Prediction
+
+
+7. Customer_Personality_Analysis
