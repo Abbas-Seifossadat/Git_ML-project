@@ -20,3 +20,6 @@ My ML projects:
 
 
 7. Customer_Personality_Analysis
+
+
+8.Fake_News_Detection
