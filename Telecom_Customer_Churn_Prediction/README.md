@@ -1,11 +1,2 @@
-﻿Telecom Customer Churn Prediction
-
-
-
-The Customer Churn dataset contains information on all 7,043 customers from a Telecommunications company in California in Q2 2022.
-
-
-
-
-
-I will evaluate the performance of the machine learning model on the dataset both with and without applying Principal Component Analysis (PCA) to understand the impact of dimensionality reduction on the model’s accuracy and computational efficiency.
+﻿# Notebook Objective
+In this notebook, we evaluate the performance of a machine learning model both with and without the application of Principal Component Analysis (PCA). Our aim is to comprehend the impact of dimensionality reduction on both the accuracy of the model and its computational efficiency. Additionally, we address various preprocessing techniques within this notebook, including filling missing values, normalization, anomaly detection, and oversampling. Through these analyses, we strive to gain insights into the effectiveness of these techniques in enhancing the performance and robustness of the machine learning model.
