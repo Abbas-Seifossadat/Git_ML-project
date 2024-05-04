@@ -22,4 +22,7 @@
 7. Customer_Personality_Analysis
 
 
-8.Fake_News_Detection
+8. Fake_News_Detection
+
+
+9. Bank_Marketing_Prediction
